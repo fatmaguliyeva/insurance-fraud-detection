@@ -28,3 +28,17 @@ Screenshots are located in the `reports/` folder.
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI
 
+## Results (After Threshold Tuning)
+
+The best trade-off was achieved with the Voting Classifier using a tuned threshold of 0.40:
+- ROC-AUC: 0.875
+- Accuracy: 0.85
+- Precision: 0.661
+- Recall: 0.796
+- F1-Score: 0.722
+
+For maximizing fraud detection recall, Random Forest at threshold 0.30 achieved:
+- Recall: 0.857
+- F1-Score: 0.737
+
+
