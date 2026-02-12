@@ -15,7 +15,7 @@ The workflow is split into two notebooks:
 - Logistic Regression  
 - Random Forest  
 - Support Vector Classifier (SVC)  
-- Voting Classifier (Soft/Hard)  
+- Voting Classifier (Soft)  
 - Stacking Classifier  
 
 ## Evaluation
@@ -27,3 +27,4 @@ Screenshots are located in the `reports/` folder.
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Power BI
+
